@@ -13,7 +13,7 @@ const Customers = () => {
     
     fetchData();
   }, [])
-
+  
   return (
     <ul>
       {customers.map(customer => {

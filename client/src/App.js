@@ -4,7 +4,7 @@ import Customers from "./components/Customers";
 const App = () => {
   return (
     <div className="container">
-      <h1>React & Express Setup</h1>
+      <h1>React and Express Setup</h1>
       <Customers />
     </div>
   );
